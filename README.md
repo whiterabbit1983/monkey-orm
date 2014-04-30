@@ -49,7 +49,6 @@ or
 ```
 to delete a record
 
-```
 raw sql queries can be launched as
 ```python
 >>> store.raw("select * from tab")
